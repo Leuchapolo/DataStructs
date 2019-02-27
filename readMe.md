@@ -1,0 +1,1 @@
+Going to periodically go through and implement some to keep sharp with the foundational stuff. 
